@@ -8,7 +8,7 @@
 - JavaScript
 
 ## 🔗 Live Site:
-👉 [Visit My Portfolio](anushka-my-portfolio.netlify.app)
+👉 [Visit My Portfolio](https://anushka-my-portfolio.netlify.app/)
 
 ## 📬 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/anushka-cholke-672723293/)
